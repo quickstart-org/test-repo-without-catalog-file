@@ -4,5 +4,5 @@ metadata:
   name: test-repo-without-catalog-file
 spec:
   type: website
-  lifecycle: experimental
+  lifecycle: production
   owner: quickstart-org/test-team
